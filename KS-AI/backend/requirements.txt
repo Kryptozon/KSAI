@@ -6,6 +6,7 @@ scikit-learn
 gTTS
 reportlab
 matplotlib
-sqlite3-binary
+pysqlite3-binary
 bcrypt
+
 
