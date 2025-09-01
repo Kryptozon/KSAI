@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+python-multipart
+scikit-learn
+gTTS
+reportlab
+matplotlib
+sqlite3-binary
+bcrypt
+
